@@ -11,15 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Atmospheric Science, Kongju National University, 2012
-* Ph.D in Atmospheric Science, Seoul National University, 2021
+* 2006.3-2010.2: B.S. in Atmospheric Science, Kongju National University
+* 2014.3-2021.8: Ph.D in Atmospheric Science, Seoul National University (Adviser: B.J. Sohn)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2010.3-2012.6: Artillery officer (ROTC)
+  * 2010.6-2011.6: Battery Executive Officer
+  * 2011.7-2012.6: Personnel Officer
+
+* 2012.7-2013.2: Researcher
+  * Kongju National University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Myung-Suk Suh
 
 * Fall 2015: Research Assistant
   * Github University
