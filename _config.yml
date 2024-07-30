@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jihoon Ryu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : 
-  employer         :
+  bio              : "Postdoc, University of North Carolina Wilmington"
+  location         : "Wilmington, NC"
+  employer         : "Dr. Yalei You"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=O1COHjwAAAAJ&hl=en&oi=ao"
+  email            : "ryuj@uncw.edu"
+  researchgate     : "https://www.researchgate.net/profile/Jihoon-Ryu-3"
   uri              :
   bitbucket        :
   codepen          :
