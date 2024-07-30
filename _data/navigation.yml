@@ -2,6 +2,9 @@
 main:
   - title: "CV"
     url: /cv/
+    
+ - title: "Research interests"
+    url: /Researchinterests/
 
   - title: "Publications"
     url: /publications/
@@ -9,11 +12,8 @@ main:
   - title: "Presentations"
     url: /presentations/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Awards and Honors"
+    url: /AnH/
   
-  - title: "Guide"
-    url: /markdown/
+  - title: "Books"
+    url: /books/
